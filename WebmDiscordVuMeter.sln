@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebmDiscordVuMeter", "WebmDiscordVuMeter\WebmDiscordVuMeter.csproj", "{FF1E8E1D-05CC-4951-B358-D785AA2A9A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1E8E1D-05CC-4951-B358-D785AA2A9A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1E8E1D-05CC-4951-B358-D785AA2A9A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1E8E1D-05CC-4951-B358-D785AA2A9A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1E8E1D-05CC-4951-B358-D785AA2A9A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDE8EE0-300F-4F63-959E-F8653E371D5B}
+	EndGlobalSection
+EndGlobal
